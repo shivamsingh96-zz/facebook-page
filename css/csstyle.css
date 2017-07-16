@@ -1,0 +1,70 @@
+.navbar-custom {
+    color: #000;
+    background-color: #4267b2;
+}
+.navbar-header{
+	color: white;
+}
+
+#white-text{
+	color: white;
+}
+li{
+	color: white;
+}
+.col-4 {
+	background-color: #000;
+	width: 33.33%;
+	border-right: 1px solid black;
+	padding: 4px;
+}
+		
+#wrapper {
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+#main,#menu,#sidebar {
+	height: 540px;
+	margin-top: 30px;
+	background-color: #e9ebee;
+}
+		
+#main {
+	overflow: auto;
+}
+
+#main::-webkit-scrollbar {
+	display: none;
+}
+						
+.glyphicon {
+	font-size: 16px;
+}
+.list-heading {
+	padding: 20px 15px 0 15px;
+}
+.panel-body .glyphicon {
+	margin-left: 10px;
+	margin-right: 4px;
+}
+.text-post {
+	margin-bottom: 15px;
+	margin-top: 0;
+}
+.glyphicon {
+	font-size: 16px;
+	margin-left: 6px;
+}
+.panel-body .glyphicon {
+	margin-left: 10px;
+	margin-right: 4px;
+	margin-top: 6px;
+}		
+.comment {
+	margin: 0;
+}
+
+.pull-right {
+	float: right!important;
+}
